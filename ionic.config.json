@@ -1,0 +1,7 @@
+{
+  "name": "examen_ChavarriaLinoKassandra",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
