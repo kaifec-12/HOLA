@@ -7,7 +7,7 @@ import { NgForm } from '@angular/forms';
   styleUrls: ['./input-forms.page.scss'],
 })
 export class InputFormsPage implements OnInit {
-  nombre: string='Kassandra';
+  nombre: string='Kaiser';
   usuario ={
     email: ' ',
     password: ' '
